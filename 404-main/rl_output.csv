@@ -1,0 +1,9 @@
+state,best_action
+lowdemand_weekday_hotregion,0.6
+lowdemand_weekday_nothotregion,0.6
+lowdemand_weekend_hotregion,1.3
+lowdemand_weekend_nothotregion,0.5
+highdemand_weekday_hotregion,1.5
+highdemand_weekday_nothotregion,1.3
+highdemand_weekend_hotregion,1.1
+highdemand_weekend_nothotregion,1.4
